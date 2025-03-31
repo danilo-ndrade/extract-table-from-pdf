@@ -15,7 +15,6 @@ ZIP_PATH = RAIZ / 'data' / 'Anexo_I_Rol_2021RN_465.2021_RN627L.2024.zip'
 PAGES = '3-181'
 
 def main():
-    """Executa o fluxo principal"""
     try:
         logging.info("Iniciando o processo.")
         df = extract_tables(PDF_PATH, PAGES)
