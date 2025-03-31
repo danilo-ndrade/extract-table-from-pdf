@@ -5,7 +5,7 @@ Script em python que utiliza tabula-py para extrair tabela de um pdf e converter
 
 ## Observações
 
-- O tabula foi escolhido por ter apresentado o melhor resultado entre as opções de pacotes que extraem tabelas de arquivos PDFs. O tabula-py se trata de wrapper do tabula-java, por isso **é necessário que o java estaja instalado na máquina que vai executar o script**.
+- O tabula foi escolhido por ter apresentado o melhor resultado entre as opções de pacotes que extraem tabelas de arquivos PDFs. O tabula-py se trata de wrapper do tabula-java, por isso **é necessário que o java esteja instalado na máquina que vai executar o script**.
 
 ---
 
